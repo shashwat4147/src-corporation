@@ -1,1 +1,1 @@
-#CASE_ STUDY - SRC Corporation
+#CASE-STUDY-SRC-Corporation
